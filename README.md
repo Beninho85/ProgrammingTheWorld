@@ -45,30 +45,30 @@ will create a xls file with all informations.
 
 ## Main project Architecture
 
-- Big Central Database
-         =
-         =
-         =
-    Interacts with
-         =
-         =
-         =
-- ProgrammingTheWorld Code
-         =
-         =
-         =
-    Interacts with
-         =
-         =
-         =
-- Access providers: Web, API, Consoles, Mobile App..
-         =
-         =
-         =
-    Interacts with
-         =
-         =
-         =
+- Big Central Database\n
+         =\n
+         =\n
+         =\n
+    Interacts with\n
+         =\n
+         =\n
+         =\n
+- ProgrammingTheWorld Code\n
+         =\n
+         =\n
+         =\n
+    Interacts with\n
+         =\n
+         =\n
+         =\n
+- Access providers: Web, API, Consoles, Mobile App..\n
+         =\n
+         =\n
+         =\n
+    Interacts with\n
+         =\n
+         =\n
+         =\n
         YOU
 
 ## Architecture of ProgrammingTheWorld code
