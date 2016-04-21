@@ -2,26 +2,26 @@
 
 ## Synopsis
 
-Programming The World is an Open Source Project aspiring to program everything we know.
-The goal is to give access of information for free to every people in this world.
+Programming The World is an Open Source Project aspiring to program everything we know.<br />
+The goal is to give access of information for free to every people in this world.<br />
 The first version will be programmed in Swift
 
 ## What is the problem
 
-Nowadays, few companies contains the major part of information. 
-In the other side, the web is a real mess.
-ProgrammingTheWorld wants to become the ultimate free public access to information.
+Nowadays, few companies contains the major part of information. <br />
+In the other side, the web is a real mess.<br />
+ProgrammingTheWorld wants to become the ultimate free public access to information.<br />
 The time has come to collaborate together for designing a better Web.
 
 ## The Goal
 
-Providing access to datas for everybody everywhere:
-    - Web Access
-    - Mobile Applications
-    - Consoles
-    - Library for programmers
-    - API's
-    - Other?
+Providing access to datas for everybody everywhere:<br />
+    - Web Access<br />
+    - Mobile Applications<br />
+    - Consoles<br />
+    - Library for programmers<br />
+    - API's<br />
+    - Other?<br />
 
 ## What kind of data?
 
@@ -29,15 +29,18 @@ EVERYTHING OF EVERY TYPE! From wikipedia-like information (Animals, Peoples, His
 
 ## Examples
 
-Here is some samples of what ProgrammingTheWorld could be in a console
+Here is some samples of what ProgrammingTheWorld could be in a console:<br /><br />
 
 -> print all animals of kind bird limit 2
 
 will show: 
 
- ---  ID -   NAME   -   FAMILY
-      1    Falcons    Falconidae 
-      2     Owl      Strigiformes 
+| ID | Name   | Family       |
+|----|--------|--------------|
+| 1  | falcon | Falconidae   |
+| 2  | owl    | Strigiformes |
+
+<br /><br />
 
 -> download all animals of kind bird limit 1000 order NAME desc format .xls
 
@@ -45,30 +48,30 @@ will create a xls file with all informations.
 
 ## Main project Architecture
 
-- Big Central Database\n
-         =\n
-         =\n
-         =\n
-    Interacts with\n
-         =\n
-         =\n
-         =\n
-- ProgrammingTheWorld Code\n
-         =\n
-         =\n
-         =\n
-    Interacts with\n
-         =\n
-         =\n
-         =\n
-- Access providers: Web, API, Consoles, Mobile App..\n
-         =\n
-         =\n
-         =\n
-    Interacts with\n
-         =\n
-         =\n
-         =\n
+- Big Central Database<br />
+         =<br />
+         =<br />
+         =<br />
+    Interacts with<br />
+         =<br />
+         =<br />
+         =<br />
+- ProgrammingTheWorld Code<br />
+         =<br />
+         =<br />
+         =<br />
+    Interacts with<br />
+         =<br />
+         =<br />
+         =<br />
+- Access providers: Web, API, Consoles, Mobile App..<br />
+         =<br />
+         =<br />
+         =<br />
+    Interacts with<br />
+         =<br />
+         =<br />
+         =<br />
         YOU
 
 ## Architecture of ProgrammingTheWorld code
@@ -88,8 +91,8 @@ will create a xls file with all informations.
 
 ## Contributors
 
-Everybody can contribute. If you are a developer, you can send your commits.
-For non-programmers, if you think you can help, you can contact us at contactprogrammingtheworld@gmail.com
+Everybody can contribute. If you are a developer, you can send your commits.<br />
+For non-programmers, if you think you can help, you can contact us at contactprogrammingtheworld@gmail.com<br />
 For providing datas, you have to wait when data insertion will be opened.
 
 ## Why contribute?
