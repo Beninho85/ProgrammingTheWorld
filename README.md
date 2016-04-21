@@ -25,13 +25,15 @@ Providing access to datas for everybody everywhere:<br />
 
 ## What kind of data?
 
-EVERYTHING OF EVERY TYPE! From wikipedia-like information (Animals, Peoples, History) to every domains : Science, Mathematics, Music, any type of content : Articles, Videos... It's time to reapprorite our datas! Of course every lang is accepted.
+EVERYTHING OF EVERY TYPE! <br />
+From wikipedia-like information (Animals, Peoples, History) to every domains : Science, Mathematics, Music, any type of content : Articles, Videos...<br />
+It's time to reapprorite our datas! Of course every lang is accepted.
 
 ## Examples
 
 Here is some samples of what ProgrammingTheWorld could be in a console:<br /><br />
 
--> print all animals of kind bird limit 2
+**-> print all animals of kind bird limit 2**
 
 will show: 
 
@@ -42,7 +44,7 @@ will show:
 
 <br />
 
--> download all animals of kind bird limit 1000 order NAME desc format .xls
+**-> download all animals of kind bird limit 1000 order NAME desc format .xls**
 
 will create a xls file with all informations.
 
