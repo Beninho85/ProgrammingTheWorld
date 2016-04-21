@@ -49,29 +49,29 @@ will create a xls file with all informations.
 ## Main project Architecture
 
  Big Central Database<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
-&nbsp;&nbsp;&nbspInteracts with<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
+&nbsp;&nbsp;&nbsp;Interacts with<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
  ProgrammingTheWorld Code<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
 &nbsp;&nbsp;&nbsp;Interacts with<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
  Access providers: Web, API, Consoles, Mobile App..<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
 &nbsp;&nbsp;&nbsp;Interacts with<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;YOU
 
 ## Architecture of ProgrammingTheWorld code
