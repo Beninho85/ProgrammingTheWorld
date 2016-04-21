@@ -6,42 +6,96 @@ Programming The World is an Open Source Project aspiring to program everything w
 The goal is to give access of information for free to every people in this world.
 The first version will be programmed in Swift
 
-## Goal
+## What is the problem
 
-Providing access to datas for everybody everywhere:
-    - By Web Access
-    - Mobile Applications
-    - Console
-    - Library for programmer
-    - Other?
-
-## Examples
-
-In a web page, we will prompt:
-
-
-## Steps
-
-1- Creation of main superclasses ( Object, Theme... )
-2- Creation of a Swift Server 
-3-  
+Nowadays, few companies contains the major part of information. 
+In the other side, the web is a real mess.
+ProgrammingTheWorld wants to become the ultimate free public access to information.
+The time has come to collaborate together for designing a better Web.
 
 ## The Goal
 
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
+Providing access to datas for everybody everywhere:
+    - Web Access
+    - Mobile Applications
+    - Consoles
+    - Library for programmers
+    - API's
+    - Other?
 
-## Motivation
+## What kind of data?
 
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+EVERYTHING OF EVERY TYPE! From wikipedia-like information (Animals, Peoples, History) to every domains : Science, Mathematics, Music, any type of content : Articles, Videos... It's time to reapprorite our datas! Of course every lang is accepted.
+
+## Examples
+
+Here is some samples of what ProgrammingTheWorld could be in a console
+
+-> print all animals of kind bird limit 2
+
+will show: 
+
+ ---  ID -   NAME   -   FAMILY
+      1    Falcons    Falconidae 
+      2     Owl      Strigiformes 
+
+-> download all animals of kind bird limit 1000 order NAME desc format .xls
+
+will create a xls file with all informations.
+
+## Main project Architecture
+
+- Big Central Database
+         =
+         =
+         =
+    Interacts with
+         =
+         =
+         =
+- ProgrammingTheWorld Code
+         =
+         =
+         =
+    Interacts with
+         =
+         =
+         =
+- Access providers: Web, API, Consoles, Mobile App..
+         =
+         =
+         =
+    Interacts with
+         =
+         =
+         =
+        YOU
+
+## Architecture of ProgrammingTheWorld code
+
+- On top : Main Superclass of datas (Meta datas : object class, theme class, tag class...)
+- Everything codable
+- Bottom: Savable Objects: Objects we can store in the database
+
+## Steps for a functionnal project
+
+- Creation of a Swift Server connected to a database
+- Designing first sample database
+- Creation of main superclasses ( Object, Theme... )
+- Creating sample classes
+- Inserting sample datas
+- Creation of a simple web platform
 
 ## Contributors
 
-Everybody can contribute. For non-programmers, you can 
+Everybody can contribute. If you are a developer, you can send your commits.
+For non-programmers, if you think you can help, you can contact us at contactprogrammingtheworld@gmail.com
+For providing datas, you have to wait when data insertion will be opened.
 
 ## Why contribute?
 
-To make the world better.
+To make the world better, for data freedom and universal access.
 
 ## License
 
-**PorgrammingTheWorld** is available under the MIT license. See the [LICENSE](https://github.com/Beninho85/LICENSE.md) file for more info.
+**ProgrammingTheWorld** is available under the MIT license. See the [LICENSE](https://github.com/Beninho85/ProgrammingTheWorld/Resources/LICENSE.md) file for more info.
