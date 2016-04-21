@@ -16,12 +16,12 @@ The time has come to collaborate together for designing a better Web.
 ## The Goal
 
 Providing access to datas for everybody everywhere:<br />
-    - Web Access<br />
-    - Mobile Applications<br />
-    - Consoles<br />
-    - Library for programmers<br />
-    - API's<br />
-    - Other?<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Web Access<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Mobile Applications<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Consoles<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Library for programmers<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- API's<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Other?<br />
 
 ## What kind of data?
 
@@ -40,7 +40,7 @@ will show:
 | 1  | falcon | Falconidae   |
 | 2  | owl    | Strigiformes |
 
-<br /><br />
+<br />
 
 -> download all animals of kind bird limit 1000 order NAME desc format .xls
 
@@ -48,31 +48,31 @@ will create a xls file with all informations.
 
 ## Main project Architecture
 
-- Big Central Database<br />
-         =<br />
-         =<br />
-         =<br />
-    Interacts with<br />
-         =<br />
-         =<br />
-         =<br />
-- ProgrammingTheWorld Code<br />
-         =<br />
-         =<br />
-         =<br />
-    Interacts with<br />
-         =<br />
-         =<br />
-         =<br />
-- Access providers: Web, API, Consoles, Mobile App..<br />
-         =<br />
-         =<br />
-         =<br />
-    Interacts with<br />
-         =<br />
-         =<br />
-         =<br />
-        YOU
+ Big Central Database<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
+&nbsp;&nbsp;&nbspInteracts with<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
+ ProgrammingTheWorld Code<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
+&nbsp;&nbsp;&nbsp;Interacts with<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
+ Access providers: Web, API, Consoles, Mobile App..<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
+&nbsp;&nbsp;&nbsp;Interacts with<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;YOU
 
 ## Architecture of ProgrammingTheWorld code
 
